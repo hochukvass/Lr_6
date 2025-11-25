@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Core.Tests.MSTest/Core.Tests.MSTest.csproj" Id="46063965-81b8-49bb-a4de-0d3d315eeec5" />
+  <Project Path="Core.Tests.XUnit/Core.Tests.XUnit.csproj" Id="0dc318e4-052d-4880-adfb-df9e1882d390" />
+  <Project Path="Core/Core.csproj" Id="4823ace3-0b2a-49b9-9bcf-c22663400d37" />
+</Solution>

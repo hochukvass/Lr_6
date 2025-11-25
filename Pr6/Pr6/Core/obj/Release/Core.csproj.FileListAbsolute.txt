@@ -1,0 +1,2 @@
+D:\Загрузки_D\Чё то там практики\Практики прилепская\Pr6\pr6nedelkin\Core\obj\Release\Core.csproj.AssemblyReference.cache
+D:\Загрузки_D\Чё то там практики\Практики прилепская\Pr6\pr6nedelkin\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
